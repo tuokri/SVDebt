@@ -1,0 +1,11 @@
+## Interface: 20503
+## Title: Shadow Vulnerability Debt
+## Version: 0.01
+## Notes: Improved Shadow Bolt / Shadow Vulnerability "debt" tracker for warlocks.
+## Author: fluudah
+## X-Email: Discord fluudah#9272
+## SavedVariables: SVDebtDB
+
+embeds.xml
+
+SVDebt.lua
